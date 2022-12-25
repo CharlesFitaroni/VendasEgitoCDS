@@ -28,7 +28,7 @@ function setValue(total){
     let comissao = total * 0.1
     const liquidoEl = document.getElementById('valor-liquido')
     let liquido = total - comissao
-   
+
 
 
 
